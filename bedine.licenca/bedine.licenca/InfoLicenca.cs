@@ -10,5 +10,7 @@ namespace bedine.licenca
     {
         public string Nome { get; set; }
         public string ChaveProduto { get; set; }
+
+        public DateTime Data { get; set; }
     }
 }
